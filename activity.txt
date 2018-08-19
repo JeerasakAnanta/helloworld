@@ -1,4 +1,3 @@
-
 ============================================
   It is three thisgs that you did yesterdey
 ============================================
@@ -7,10 +6,9 @@
 3. Desing
 4. Taking 
 
-
 ===========================================
   It is three things that  would like to da tomorrow.
-
 1. play game
 2. slpaeing
+3. add Someing
 ===========================================
